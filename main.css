@@ -1,0 +1,115 @@
+.design{
+    height: 100%;
+    width: 100%;
+}
+.logo1{
+    height: 50px;
+    width: 200px;
+}
+.phone1{
+    height: 50px;
+    width: 50px;
+}
+.sa{
+margin-bottom: 0px;
+}
+.landing1{
+   height: 300px;
+   width: 300px;
+}
+.mainp{
+    width:100%;
+    height: 100%;
+}
+.side1{
+    height: 100%;
+    width: 100%;
+}
+.text{
+    text-align: center;
+   
+}
+.new{
+    margin-top: 30px;
+}
+.background-image{
+   
+        background-image: url("assests2/bgimage.jpg");
+height: 400px;
+width: 100%;
+       }
+
+.side2{
+    width: 100%;
+    height: 100%;
+}
+.team-member{
+   
+  margin-top: -100px;
+}
+.team-wrapper{
+   
+    height: 500px;
+}
+
+
+
+.location p{
+    color: white;
+}
+.pay{
+    width: 100px;
+   
+}
+.quick-links h5{
+    color: white;
+}
+.calla{
+
+    justify-content: center;
+    
+}
+.location1 h5{
+    color: white;
+}
+.calla p{
+    color: white;
+    margin-top: 30px;
+}
+.footersection{
+    display: flex;
+   padding-top: 5%;
+   padding-bottom: 5%;
+/* justify-content: space-between; */
+    
+}
+#calla-footer{
+    background-color:#2C2C2C;
+    margin-top: 50px;
+}
+.quick-links p{
+    color: white;
+   
+
+}
+.quick-links{
+    margin-left: 100px;
+}
+.location1{
+    margin-left: 100px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-image: url("assests2/bgimage.jpg");
+}
+.top-section{
+    background-color: #F5F5F5;
+    height: 150px;
+    text-align: center;
+
+
+}
+.ab{
+    color: black;
+}
